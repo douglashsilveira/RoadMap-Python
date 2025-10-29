@@ -13,22 +13,6 @@ Organizar o aprendizado de Python em um formato **simples, visual e direto**, re
 
 ---
 
-## 📚 Estrutura do Repositório
-
-📦 python-learning-guide/
-├── 🧭 roadmap/ → Roteiro de aprendizado (bases à prática)
-├── 🔗 links/ → Sites, artigos e vídeos recomendados
-├── 📘 notes/ → Anotações e resumos pessoais
-├── 💡 examples/ → Códigos curtos e explicativos
-└── 📊 reference/ → Tabelas de tipos, funções e operadores
-
-yaml
-Copiar código
-
-Cada pasta contém um arquivo `README.md` próprio, com explicações, trechos de código e links diretos para estudo.
-
----
-
 ## 🌐 Recursos Principais
 
 | Tema | Recurso | Link |
@@ -42,7 +26,7 @@ Cada pasta contém um arquivo `README.md` próprio, com explicações, trechos d
 
 ## 🧠 Filosofia
 
-> “Aprender é relembrar o que o código já sabe — mas o cérebro ainda não compilou.”
+> “O primeiro passo para resolver um problema é defini-lo como tal.”
 
 Este projeto segue a ideia de **Aprendizado Incremental**: aprender um conceito, registrar, revisar e aplicar.  
 Tudo que é difícil de lembrar vira um snippet ou tabela fácil de acessar.
@@ -63,7 +47,8 @@ Sinta-se livre para:
 **Douglas — Engenheiro de Dados Jr. | Estudante de ADS**  
 Explorando Python como linguagem de pensamento lógico e ferramenta de automação.
 
-> “Código é poesia em linguagem lógica.”
+> “Demore o tempo que for para decidir o que você quer da vida, e depois que decidir não recue ante nenhum pretexto, porque o mundo tentará te dissuadir.”
+-Friedrich Nietzsche
 
 ---
 
@@ -71,9 +56,3 @@ Explorando Python como linguagem de pensamento lógico e ferramenta de automaç�
 
 Este repositório é aberto sob a [MIT License](LICENSE).
 
----
-
-### 🚀 Comece por aqui:
-- [Roadmap Python →](https://roadmap.sh/python)  
-- [Programiz Python →](https://www.programiz.com/python-programming)
-- [Documentação Oficial →](https://docs.python.org/3/)
