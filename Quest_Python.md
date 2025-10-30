@@ -1,3 +1,4 @@
+#quest #tutorial #desenvolvimento 
 ### links
 [roadmap.sh_python](https://roadmap.sh/python)
 [programiz_python](https://www.programiz.com/python-programming/getting-started)
